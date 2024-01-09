@@ -1,6 +1,8 @@
-// z-index issue
+/*
+	- z-index issue
+*/
 
-class MultiScroll {
+class Swipe {
 	constructor(delayDuration, mobileSize) {
 		this.currentSlide = 1;
 		this.mobileSize = mobileSize;
@@ -120,4 +122,4 @@ class MultiScroll {
 	}
 }
 
-new MultiScroll(600, 992);
+new Swipe(600, 992);
