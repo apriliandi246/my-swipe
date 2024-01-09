@@ -1,0 +1,12 @@
+{
+	"name": "my-swipe",
+	"version": "1.0.0",
+	"description": "Swipe functionalities focus on mobile view....",
+	"main": "",
+	"scripts": {
+		"pretty": "prettier . --write"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
